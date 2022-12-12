@@ -6,9 +6,9 @@
 
 
 
-![BackGround1](.\img\bg1.svg)
+![BackGround1](.\img\熊猫.svg)
 
-<center>You are my <img src=https://profile-counter.glitch.me/all-smile/count.svg></img>visitor,Thank You! 🎉🎉🎉🎉🎉</center>
+You are my <img src=https://profile-counter.glitch.me/all-smile/count.svg></img>visitor,Thank You! 🎉🎉🎉🎉🎉
 
 
 <div class="imgGroup">
@@ -31,7 +31,6 @@
 - 
 - 
 - 
-
 
 
 
